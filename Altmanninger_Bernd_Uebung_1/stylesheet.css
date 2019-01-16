@@ -1,0 +1,8 @@
+body{
+    background-image: image("Götz.jpg");
+    background-attachment: scroll;
+}
+
+table{
+    font-feature-settings: normal;
+}
