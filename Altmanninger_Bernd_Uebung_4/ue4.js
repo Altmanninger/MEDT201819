@@ -22,7 +22,7 @@ function mwst(einkaufspreis){
 
 function ausgabe() {
     for (i=1;i<=6;i++){
-        document.write(lebensmittel[i].getVa)
+        document.getElementById("list").innerHTML= lebensmittel[i].toString();
 
     }
 
